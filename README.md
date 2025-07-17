@@ -15,7 +15,10 @@ This project scrapes Python job postings from python.org/jobs, extracts the full
 
 The analysis produced the following chart, highlighting the technical skills most frequently mentioned in the job postings. This provides actionable intelligence for job seekers looking to align their skills with market demand.
 
-![Skill Demand Chart](skill_demand_chart.png)
+![Skill Demand Chart]
+
+<img width="1200" height="1000" alt="skill_demand_chart" src="https://github.com/user-attachments/assets/6db47254-9fa7-4370-bf1e-1e46329eb3c7" />
+
 
 ## Tech Stack
 
