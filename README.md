@@ -32,7 +32,7 @@ The analysis produced the following chart, highlighting the technical skills mos
 
 ## How to Run
 
-1.  Clone this repository: `git clone [your-repo-url]`
+1.  Clone this repository: `git clone [https://github.com/mashabarapholo/Job-market-skills-analysis-via-scrapping.git]`
 2.  Navigate to the project directory: `cd job_scraper_project`
 3.  Create and activate a virtual environment.
 4.  Install the required dependencies:
